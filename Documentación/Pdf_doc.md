@@ -1,6 +1,8 @@
 # ISPC_CienciaDeDatos_I - 2024 - Cohorte 2023
 
-El dataset elegido es .........
+El dataset elegido: Remuneración de los empleados del sector TI de Argentina
+
+El presente trabajo tiene el objetivo analizar la evolución y las características de los sueldos en la República Argentina durante el año 2023. Se abordará aspectos de la compensación laboral y las condiciones de trabajo, basado en un conjunto de datos estructurado que abarca información relevante como salarios, tipo de contrato, participación en criptomonedas, bonificaciones y más. A través de una serie de informes, se explorarán tendencias salariales, niveles de satisfacción laboral, características del empleo y herramientas tecnológicas utilizadas en el trabajo. Este análisis proporciona una comprensión integral de la dinámica laboral actual, permitiendo identificar patrones, desafíos y oportunidades clave para empleadores, empleados y profesionales del sector de recursos humanos.
 
 URL dataset: https://www.kaggle.com/datasets/aletbm/argentina-salary-survey-sysarmy
 
