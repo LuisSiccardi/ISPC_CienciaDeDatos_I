@@ -29,10 +29,13 @@ Integrantes:
     - Github: Francovega
 
   - López, Vanesa
+    - Email: vanemlopez55@gmail.com
+    - Github: Vml5
 
   - Solá, Martín Hernán
     - Email: martinsola119@gmail.com
     - Github: tynzer
+    
   - Ortiz, Oscar Alejandro
     - Email: okyformosa@gmail.com
     - Github: okyformosa2
