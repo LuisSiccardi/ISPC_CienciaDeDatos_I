@@ -9,27 +9,11 @@
 - URL de Google Colab: https://colab.research.google.com/drive/1detOQ2hdqPIJH7LsCw0UVt7c0MlNnEYU?usp=sharing
 
 Integrantes:
-  - Suarez, Juan Pablo
-    - Email: jp.juansuarez@gmail.com
-    - Github: JuanPSuarez   
-    
-  - Gesto, Giuliana
-    - Email: yellowgsg@gmail.com
-    - Github: gsgesto / giulianagesto  
-  
-  - Siccardi, Luis  
-    - Email: luissiccardi@gmail.com
-    - Github: LuisSiccardi
-    
-  - Vega, Franco
-    - Email: francovega1234@gmail.com
-    - Github: Francovega
-
-  - Solá, Martín Hernán
-    - Email: martinsola119@gmail.com
-    - Github: tynzer
-    
-  - Ortiz, Oscar Alejandro
-    - Email: okyformosa@gmail.com
-    - Github: okyformosa2
-
+|       Integrante       | Github                  |         Correo         |
+|:----------------------:|-------------------------|:------------------------:|
+| Gesto, Giuliana Sofia  | gsgesto / giulianagesto | yellowgsg@gmail.com      |
+| Ortiz, Oscar Alejandro | okyformosa2             | okyformosa@gmail.com     |
+| Siccardi, Luis         | LuisSiccardi            | luissiccardi@gmail.com   |
+| Solá, Martín Hernán    | tynzer                  | martinsola119@gmail.com  |
+| Suarez, Juan Pablo     | JuanPSuarez             | juanpa09y@gmail.com      |
+| Vega, Franco Daniel    | Francovegac             | francovega1234@gmail.com |
