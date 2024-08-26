@@ -19,18 +19,10 @@ Integrantes:
   - Siccardi, Luis  
     - Email: luissiccardi@gmail.com
     - Github: LuisSiccardi
-        
-  - Urzagaste, Gisela
-    - Email:maria.u.urzagaste@outlook.com
-    - Github: Mar-Urzag
     
   - Vega, Franco
     - Email: francovega1234@gmail.com
     - Github: Francovega
-
-  - López, Vanesa
-    - Email: vanemlopez55@gmail.com
-    - Github: Vml5
 
   - Solá, Martín Hernán
     - Email: martinsola119@gmail.com
