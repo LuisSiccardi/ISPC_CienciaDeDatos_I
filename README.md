@@ -8,11 +8,21 @@
 - URL Repositorio: https://github.com/LuisSiccardi/ISPC_CienciaDeDatos_I
 - URL de Google Colab: https://colab.research.google.com/drive/1detOQ2hdqPIJH7LsCw0UVt7c0MlNnEYU?usp=sharing
 
-Integrantes:
+Integrantes CIENCIA DE DATOS:
 |       Integrante       | Github                  |         Correo         |
 |:----------------------:|-------------------------|:------------------------:|
 | Gesto, Giuliana Sofia  | gsgesto / giulianagesto | yellowgsg@gmail.com      |
 | Ortiz, Oscar Alejandro | okyformosa2             | okyformosa@gmail.com     |
+| Siccardi, Luis         | LuisSiccardi            | luissiccardi@gmail.com   |
+| Solá, Martín Hernán    | tynzer                  | martinsola119@gmail.com  |
+| Suarez, Juan Pablo     | JuanPSuarez             | juanpa09y@gmail.com      |
+| Vega, Franco Daniel    | Francovegac             | francovega1234@gmail.com |
+
+
+Integrantes PRACTICA PROFESIONALIZANTE I:
+|       Integrante       | Github                  |         Correo         |
+|:----------------------:|-------------------------|:------------------------:|
+| Gesto, Giuliana Sofia  | gsgesto / giulianagesto | yellowgsg@gmail.com      |
 | Siccardi, Luis         | LuisSiccardi            | luissiccardi@gmail.com   |
 | Solá, Martín Hernán    | tynzer                  | martinsola119@gmail.com  |
 | Suarez, Juan Pablo     | JuanPSuarez             | juanpa09y@gmail.com      |
