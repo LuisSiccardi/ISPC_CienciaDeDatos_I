@@ -5,38 +5,25 @@
   <h3>Remuneración de los empleados del sector TI de Argentina</h3></br>
 <p>El presente trabajo tiene el objetivo analizar la evolución y las características de los sueldos en la República Argentina durante el año 2023. Se abordará aspectos de la compensación laboral y las condiciones de trabajo, basado en un conjunto de datos estructurado que abarca información relevante como salarios, tipo de contrato, participación en criptomonedas, bonificaciones y más. A través de una serie de informes, se explorarán tendencias salariales, niveles de satisfacción laboral, características del empleo y herramientas tecnológicas utilizadas en el trabajo. Este análisis proporciona una comprensión integral de la dinámica laboral actual, permitiendo identificar patrones, desafíos y oportunidades clave para empleadores, empleados y profesionales del sector de recursos humanos..</p>
 
-URL Repositorio: https://github.com/LuisSiccardi/ISPC_CienciaDeDatos_I
+- URL Repositorio: https://github.com/LuisSiccardi/ISPC_CienciaDeDatos_I
+- URL de Google Colab: https://colab.research.google.com/drive/1detOQ2hdqPIJH7LsCw0UVt7c0MlNnEYU?usp=sharing
 
-Integrantes:
-  - Suarez, Juan Pablo
-    - Email: jp.juansuarez@gmail.com
-    - Github: JuanPSuarez   
-    
-  - Gesto, Giuliana
-    - Email: yellowgsg@gmail.com
-    - Github: gsgesto / giulianagesto  
-  
-  - Siccardi, Luis  
-    - Email: luissiccardi@gmail.com
-    - Github: LuisSiccardi
-        
-  - Urzagaste, Gisela
-    - Email:maria.u.urzagaste@outlook.com
-    - Github: Mar-Urzag
-    
-  - Vega, Franco
-    - Email: francovega1234@gmail.com
-    - Github: Francovega
+Integrantes CIENCIA DE DATOS:
+|       Integrante       | Github                  |         Correo         |
+|:----------------------:|-------------------------|:------------------------:|
+| Gesto, Giuliana Sofia  | gsgesto / giulianagesto | yellowgsg@gmail.com      |
+| Ortiz, Oscar Alejandro | okyformosa2             | okyformosa@gmail.com     |
+| Siccardi, Luis         | LuisSiccardi            | luissiccardi@gmail.com   |
+| Solá, Martín Hernán    | tynzer                  | martinsola119@gmail.com  |
+| Suarez, Juan Pablo     | JuanPSuarez             | juanpa09y@gmail.com      |
+| Vega, Franco Daniel    | Francovegac             | francovega1234@gmail.com |
 
-  - López, Vanesa
-    - Email: vanemlopez55@gmail.com
-    - Github: Vml5
 
-  - Solá, Martín Hernán
-    - Email: martinsola119@gmail.com
-    - Github: tynzer
-    
-  - Ortiz, Oscar Alejandro
-    - Email: okyformosa@gmail.com
-    - Github: okyformosa2
-
+Integrantes PRACTICA PROFESIONALIZANTE I:
+|       Integrante       | Github                  |         Correo         |
+|:----------------------:|-------------------------|:------------------------:|
+| Gesto, Giuliana Sofia  | gsgesto / giulianagesto | yellowgsg@gmail.com      |
+| Siccardi, Luis         | LuisSiccardi            | luissiccardi@gmail.com   |
+| Solá, Martín Hernán    | tynzer                  | martinsola119@gmail.com  |
+| Suarez, Juan Pablo     | JuanPSuarez             | juanpa09y@gmail.com      |
+| Vega, Franco Daniel    | Francovegac             | francovega1234@gmail.com |
